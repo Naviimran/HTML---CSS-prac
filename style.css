@@ -1,0 +1,32 @@
+ /#first {
+        background-color:aqua
+    }
+    #second{
+        background-color:rgb(21, 255, 0)
+    }
+    .base{
+        background-color:rgb(0, 255, 98);
+        width: auto;
+        height: auto;
+    }
+    
+    .secondbase{
+        color:black;
+        text-align: justify;
+        font-size: medium;
+    }
+        color: brown;
+       
+    div>h1{
+    background-color: blue;
+}
+
+div>h1{
+    background-color: blue;
+}
+div>h2{
+    background-color: rgb(255, 0, 200);
+}
+body{
+    background-color: brown !important;
+}
